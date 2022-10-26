@@ -14,7 +14,7 @@ app.get('/courses', (req, res) =>{
   res.send(require('./Data/courses.json'))
 })
 
-app.get('/courses/:id', (req, res) =>{
+app.get('/course/:id', (req, res) =>{
   const id = parseInt(req.params.id)
 
   const course = courses.find(ch => parseInt(ch._id) === id)
