@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "01",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "course_fee": "$200",
+    "course_duration": "180 hr 15 min",
+    "title": "Graphics Design & Illustration",
+    "lectures":"29 Lectures",
+    "image_url": "https://i.postimg.cc/LshZMWxV/Graphic-Design.jpg"
+  },
+  {
+    "_id": "02",
+    "category_id": "02",
+    "rating": { "number": 4.4, "badge": "Excellent" },
+    "course_fee": "$180",
+    "course_duration": "180 hr 15 min",
+    "title": "UX UI Designing & live project",
+    "lectures":"26 Lectures",
+    "image_url": "https://i.postimg.cc/k4DJGVzr/UX-UI-Designer.jpg"
+  },
+  {
+    "_id": "03",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "course_fee": "$220",
+    "course_duration": "180 hr 15 min",
+    "title": "Digital Markeing & Search Engine Optimization",
+    "lectures":"28 Lectures",
+    "image_url": "https://i.postimg.cc/qMYh0wCc/Digital-marketing.jpg"
+  },
+  {
+    "_id": "04",
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "course_fee": "$200",
+    "course_duration": "180 hr 15 min",
+    "title": "Data Science and Machine Learning with Python",
+    "lectures":"25 Lectures",
+    "image_url": "https://i.postimg.cc/t4HSr3Ck/data-science.jpg"
+  },
+  {
+    "_id": "05",
+    "category_id": "05",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "course_fee": "$240",
+    "course_duration": "180 hr 15 min",
+    "title": "Programming and Data Processing",
+    "lectures":"28 Lectures",
+    "image_url": "https://i.postimg.cc/5NHZ0h3R/programming.jpg"
+  },
+  {
+    "_id": "06",
+    "category_id": "06",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "course_fee": "$210",
+    "course_duration": "180 hr 15 min",
+    "title": "Video Editeing with live project",
+    "lectures":"25 Lectures",
+    "image_url": "https://i.postimg.cc/6qL3k8mD/Video-editing.jpg"
+  }
+]
