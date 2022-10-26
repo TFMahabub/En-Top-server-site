@@ -9,8 +9,17 @@ app.use(cors())
 app.get('/', (req, res) =>{
   res.send('done')
 })
+
 app.get('/courses', (req, res) =>{
   res.send(require('./Data/courses.json'))
+})
+
+app.get('/courses/:id', (req, res) =>{
+  const id = parseInt(req.params.id)
+
+  const course = courses.find(ch => parseInt(ch._id) === id)
+
+  res.send(course)
 })
 
 
