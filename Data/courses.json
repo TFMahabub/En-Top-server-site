@@ -7,7 +7,8 @@
     "course_duration": "180 hr 15 min",
     "title": "Graphics Design & Illustration",
     "lectures":"29 Lectures",
-    "image_url": "https://i.postimg.cc/LshZMWxV/Graphic-Design.jpg"
+    "image_url": "https://i.postimg.cc/LshZMWxV/Graphic-Design.jpg",
+    "description": "Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports."
   },
   {
     "_id": "02",
@@ -17,7 +18,8 @@
     "course_duration": "180 hr 15 min",
     "title": "UX UI Designing & live project",
     "lectures":"26 Lectures",
-    "image_url": "https://i.postimg.cc/k4DJGVzr/UX-UI-Designer.jpg"
+    "image_url": "https://i.postimg.cc/k4DJGVzr/UX-UI-Designer.jpg",
+    "description": "UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with when using a website, app, or other electronic device. UX refers to the entire interaction you have with a product, including how you feel about the interaction."
   },
   {
     "_id": "03",
@@ -27,7 +29,8 @@
     "course_duration": "180 hr 15 min",
     "title": "Digital Markeing & Search Engine Optimization",
     "lectures":"28 Lectures",
-    "image_url": "https://i.postimg.cc/qMYh0wCc/Digital-marketing.jpg"
+    "image_url": "https://i.postimg.cc/qMYh0wCc/Digital-marketing.jpg",
+    "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel."
   },
   {
     "_id": "04",
@@ -37,7 +40,8 @@
     "course_duration": "180 hr 15 min",
     "title": "Data Science and Machine Learning with Python",
     "lectures":"25 Lectures",
-    "image_url": "https://i.postimg.cc/t4HSr3Ck/data-science.jpg"
+    "image_url": "https://i.postimg.cc/t4HSr3Ck/data-science.jpg",
+    "description": "In simple terms, a data scientist's job is to analyze data for actionable insights. Specific tasks include: Identifying the data-analytics problems that offer the greatest opportunities to the organization. Determining the correct data sets and variables."
   },
   {
     "_id": "05",
@@ -47,7 +51,8 @@
     "course_duration": "180 hr 15 min",
     "title": "Programming and Data Processing",
     "lectures":"28 Lectures",
-    "image_url": "https://i.postimg.cc/5NHZ0h3R/programming.jpg"
+    "image_url": "https://i.postimg.cc/5NHZ0h3R/programming.jpg",
+    "description": "Programming is a hands-on technical skill that involves designing, creating, and refining code to solve problems, build applications, and more. Computer science is a theoretical field that spans mathematics and computer systems. Coding can be a good career for many professionals. Those with coding jobs often enjoy a high salary, work flexibility (such as the ability to find a remote coding job), and plentiful job opportunities."
   },
   {
     "_id": "06",
@@ -57,6 +62,7 @@
     "course_duration": "180 hr 15 min",
     "title": "Video Editeing with live project",
     "lectures":"25 Lectures",
-    "image_url": "https://i.postimg.cc/6qL3k8mD/Video-editing.jpg"
+    "image_url": "https://i.postimg.cc/6qL3k8mD/Video-editing.jpg",
+    "description": "Video editing is the process of manipulating and rearranging video shots to create a new work. In the film industry editing is considered part of the post-production process that is it is a process taking place after production, or the filming/collection of imagery."
   }
 ]
